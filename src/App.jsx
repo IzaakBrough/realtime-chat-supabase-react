@@ -27,7 +27,7 @@ function App() {
   return (
     <Provider>
       <AppContextProvider>
-        <Box bg="gray.100">
+        <Box bg="gray.100" color="gray.800">
           <Router>
             <Routes>
               <Route
